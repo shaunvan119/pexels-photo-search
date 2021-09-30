@@ -44,7 +44,17 @@ header h2 {
     font-size: 1rem;
     background: rgb(89, 134, 231);
     color: white;
-    cursor: pointer;
-    
+    cursor: pointer;   
+}
+
+.gallery-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: grey;
+}
+
+.gallery-info a{
+    color: grey;
 }
 
